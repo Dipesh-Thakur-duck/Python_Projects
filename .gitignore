@@ -1,0 +1,10 @@
+# Ignore virtual environment
+venv/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# OS / IDE files
+.DS_Store
+.vscode/
